@@ -1,6 +1,11 @@
 # ✈️ Chào Mừng Đến Với Dự Án Bán Vé Máy Bay! 🌟
 
-Xin chào! Em là **Võ Văn Phụng**, sinh viên năm 3 tại trường **Huflit**, một nhà phát triển đam mê công nghệ và đổi mới.
+Xin chào! Em là **Võ Văn Phụng**, hiện đang là sinh viên năm 3 tại trường **Huflit**, một nhà phát triển đam mê công nghệ và đổi mới.
+
+---
+
+## 🌐 Giới Thiệu Về Đồ Án
+Dự án web bán vé máy bay này được thiết kế nhằm cung cấp một nền tảng trực tuyến cho người dùng tìm kiếm và đặt vé máy bay dễ dàng và tiện lợi. Ứng dụng cho phép người dùng tra cứu lịch bay, so sánh giá vé và thực hiện đặt chỗ một cách nhanh chóng. Mục tiêu của dự án là mang đến trải nghiệm tốt nhất cho người dùng thông qua giao diện thân thiện và các tính năng hữu ích.
 
 ---
 
