@@ -1,7 +1,6 @@
 # ✈️ Chào Mừng Đến Với Dự Án Bán Vé Máy Bay! 🌟
 
-Xin chào! Em là **Võ Văn Phụng![image](https://github.com/user-attachments/assets/16c1d210-66ab-4868-b9df-a6f2b664e1f7)
-**, hiện đang là sinh viên năm 3 tại trường **Huflit**, một nhà phát triển đam mê công nghệ và đổi mới.
+Xin chào! Em là **Võ Văn Phụng**, hiện đang là sinh viên năm 3 tại trường **Huflit**, một nhà phát triển đam mê công nghệ và đổi mới.
 
 ---
 
@@ -38,4 +37,5 @@ Dự án web bán vé máy bay này được thiết kế nhằm cung cấp mộ
 ---
 
 ## 🤗 Cảm Ơn Bạn Đã Ghé Thăm!
-![Cảm ơn!](https://media.tenor.com/images/4dc4d9498d8ae6a9f7c4d26b1c5ac2a3/tenor.gif)
+![Cảm ơn!](![image](https://github.com/user-attachments/assets/2b623559-a20c-4f88-bd64-156f92ac7dfc)
+)
