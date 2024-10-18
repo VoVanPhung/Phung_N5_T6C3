@@ -36,5 +36,5 @@ Dự án web bán vé máy bay này được thiết kế nhằm cung cấp mộ
 
 ---
 
-## 🙏 Cảm Ơn Bạn Đã Ghé Thăm!
+## 🤗 Cảm Ơn Bạn Đã Ghé Thăm!
 ![Cảm ơn!](https://media.tenor.com/images/4dc4d9498d8ae6a9f7c4d26b1c5ac2a3/tenor.gif)
