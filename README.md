@@ -32,4 +32,4 @@ Xin chào! Em là **Võ Văn Phụng**, sinh viên năm 3 tại trường **Hufl
 ---
 
 ## 🙏 Cảm Ơn Bạn Đã Ghé Thăm!
-![Cảm ơn](https://tenor.com/bXfXr.gif)
+![Cảm ơn](https://tenor.com/view/thank-you-sticker-thanks-sticker-line-sticker-cat-sticker-orange-cat-gif-26476683)
