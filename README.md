@@ -32,4 +32,4 @@ Xin chào! Em là **Võ Văn Phụng**, sinh viên năm 3 tại trường **Hufl
 ---
 
 ## 🙏 Cảm Ơn Bạn Đã Ghé Thăm!
-![Cảm ơn](https://media.giphy.com/media/3oEjHYyH1mZ4Q0YI8A/giphy.gif)
+![Cảm ơn](https://tenor.com/bXfXr.gif)
