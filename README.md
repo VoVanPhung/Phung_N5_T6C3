@@ -1,12 +1,12 @@
 # ✈️ Chào Mừng Đến Với Dự Án Bán Vé Máy Bay! 🌟
 
-Xin chào! Tôi là **Võ Văn Phụng**, sinh viên năm 3 tại trường **Huflit**, một nhà phát triển đam mê công nghệ và đổi mới.
+Xin chào! Em là **Võ Văn Phụng**, sinh viên năm 3 tại trường **Huflit**, một nhà phát triển đam mê công nghệ và đổi mới.
 
 ---
 
-## 🛠️ Thông Tin Về Tôi
-- **🌱 Hiện Tại Đang Học:** Lập trình Web, Cơ sở dữ liệu
-- **💼 Kinh Nghiệm:** Tham gia vào các dự án nhóm và cá nhân về phát triển web
+## 🛠️ Về Tôi
+- **🌱 Hiện Đang Học:** [Lập trình Web, Cơ sở dữ liệu]
+- **💼 Kinh Nghiệm:** [Tham gia vào các dự án nhóm và cá nhân về phát triển web]
 - **💡 Sở Thích:** Open Source, Trí Tuệ Nhân Tạo, Phương Pháp Agile
 
 ---
@@ -27,13 +27,9 @@ Xin chào! Tôi là **Võ Văn Phụng**, sinh viên năm 3 tại trường **Hu
 ## ⚙️ Công Nghệ & Công Cụ
 - **Quản Lý Phiên Bản:** Git, GitHub
 - **Cơ Sở Dữ Liệu:** PostgreSQL, SQLite
-- **Công Cụ Phát Triển:** Docker, Webpack
+- **Công Cụ Phát Triển:** Docker, Webpack, Postman
 
 ---
 
-## 🎨 Hình Ảnh GIF
-![Flight Booking](https://media.giphy.com/media/3o6MbcYdHQGqvR6NRG/giphy.gif)
-
----
-
-Cảm ơn bạn đã ghé thăm! Hãy cùng nhau tạo ra những trải nghiệm đặt vé máy bay tuyệt vời! 🚀
+## 🙏 Cảm Ơn Bạn Đã Ghé Thăm!
+![Cảm ơn](https://media.giphy.com/media/3oEjHYyH1mZ4Q0YI8A/giphy.gif)
