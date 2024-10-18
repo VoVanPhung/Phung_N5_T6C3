@@ -1,21 +1,39 @@
-# 🌍 Phung_N5_T6C3(22DH112882)
+# ✈️ Chào Mừng Đến Với Dự Án Bán Vé Máy Bay! 🌟
 
-![GitHub last commit](https://img.shields.io/github/last-commit/VoVanPhung/Phung_N5_T6C3)
-![GitHub top language](https://img.shields.io/github/languages/top/VoVanPhung/Phung_N5_T6C3)
+Xin chào! Tôi là **Võ Văn Phụng**, sinh viên năm 3 tại trường **Huflit**, một nhà phát triển đam mê công nghệ và đổi mới.
 
-Chào mừng bạn đến với **Phung_N5_T6C3**! Đây là một dự án web bán vé máy bay, nhằm mang đến cho người dùng trải nghiệm đặt vé dễ dàng và thuận tiện.
+---
 
-## 📚 Table of Contents
-- [Giới thiệu](#giới-thiệu)
-- [Cài đặt](#cài-đặt)
-- [Sử dụng](#sử-dụng)
-- [Đóng góp](#đóng-góp)
-- [Liên hệ](#liên-hệ)
+## 🛠️ Thông Tin Về Tôi
+- **🌱 Hiện Tại Đang Học:** Lập trình Web, Cơ sở dữ liệu
+- **💼 Kinh Nghiệm:** Tham gia vào các dự án nhóm và cá nhân về phát triển web
+- **💡 Sở Thích:** Open Source, Trí Tuệ Nhân Tạo, Phương Pháp Agile
 
-## 📝 Giới thiệu
-Dự án này được xây dựng với mục tiêu cung cấp một nền tảng trực tuyến cho việc đặt vé máy bay, giúp người dùng tìm kiếm và đặt vé một cách nhanh chóng và hiệu quả.
+---
 
-## ⚙️ Cài đặt
-1. Clone repository này về máy:
-   ```bash
-   git clone https://github.com/VoVanPhung/Phung_N5_T6C3.git
+## 💻 Ngôn Ngữ & Frameworks
+| Ngôn Ngữ/Framework | Biểu Tượng |
+|---------------------|------------|
+| JavaScript          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| Python              | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Java                | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| React               | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| Node.js             | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| Django              | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| Ruby on Rails       | ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) |
+
+---
+
+## ⚙️ Công Nghệ & Công Cụ
+- **Quản Lý Phiên Bản:** Git, GitHub
+- **Cơ Sở Dữ Liệu:** PostgreSQL, SQLite
+- **Công Cụ Phát Triển:** Docker, Webpack
+
+---
+
+## 🎨 Hình Ảnh GIF
+![Flight Booking](https://media.giphy.com/media/3o6MbcYdHQGqvR6NRG/giphy.gif)
+
+---
+
+Cảm ơn bạn đã ghé thăm! Hãy cùng nhau tạo ra những trải nghiệm đặt vé máy bay tuyệt vời! 🚀
